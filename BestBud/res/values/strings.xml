@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Student Union</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Links">Useful Links</string>
+    <string name="Hours">Hours</string>
+    <string name="Contact">Contact Info</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Directions">Directions</string>
+    <string name="Radio">K-Roo Radio</string>
+
+    <color name="slider_divider">#666666</color>
+    <color name="slider">#212021</color>
+    <color name="newColor">#041221</color>
+    <color name="focus">#0E3E6E</color>
+    <color name="transparent">#80000000</color>
+    <color name="light_gray">#B6B6B4</color>
+    <color name="title_bar_blue">#0E3E6E</color>
+
+    <string-array name="Contact_Office">
+        <item>Building Information/Campus Lost &amp; Found</item>
+        <item>Event Information</item>
+        <item>One Card Office</item>
+        <item>Office of Student Involvement</item>
+        <item>Bookstore</item>
+        <item>Multi Cultural Student Affairs</item>
+        <item>Student Employment opportunities</item>
+        <item>Dining Services</item>
+        <item>US Bank</item>
+    </string-array>
+    <string-array name="Phones">
+        <item>8162355555</item>
+        <item>8162351406</item>
+        <item>8162356657</item>
+        <item>8162351407</item>
+        <item>8162352665</item>
+        <item>8162351109</item>
+        <item>8162355555</item>
+        <item>8162351417</item>
+        <item>8164444462</item>
+    </string-array>
+    <string-array name="Email">
+        <item>umkc-info-center@umkc.edu</item>
+        <item></item>
+        <item>umkconecard@umkc.edu</item>
+        <item>getinvolved@umkc.edu</item>
+        <item>umkcbookstore@umkc.edu</item>
+        <item>lamaster@umkc.edu</item>
+        <item>umkc-info-center@umkc.edu</item>
+        <item></item>
+    </string-array>
+    <string-array name="BuildingHours">
+        <item>Fall &amp; Spring</item>
+        <item>Summer</item>
+        <item>Chick fil-A</item>
+        <item>Sub Connection</item>
+        <item>Baja Fresh</item>
+        <item>Jazzmans Coffeehouse</item>
+        <item>US Bank</item>
+    </string-array>
+    <string-array name="ParentGroup">
+        <item>Bookstore</item>
+        <item>Events Calendar</item>
+        <item>How to reserve a space</item>
+        <item>Dining Services</item>
+    </string-array>
+    <string-array name="bookstore">
+        <item>Shop &amp; Compare</item>
+        <item>Be the first to know</item>
+        <item>General Information</item>
+    </string-array>
+    <string-array name="Events">
+        <item>Events Calendar</item>
+    </string-array>
+    <string-array name="Reserve">
+        <item>SGA</item>
+        <item>Campus Departments</item>
+    </string-array>
+    <string-array name="Dining">
+        <item>Dining Services</item>
+    </string-array>
+
+    <string name="mail_not_available">Not Available</string>
+    <string name="mail_student_employment">umkc-info-center@umkc.edu</string>
+    <string name="title_mail_employment_oppurtunites">Mail Student Employment Oppurtunites</string>
+    <string name="button_feedback">Send feedback</string>
+    <string name="title_send_feedback">Send feedback</string>
+    <string name="mail_feedback_email">umkc-info-center@umkc.edu</string>
+    <string name="mail_feedback_subject">Feedback regarding issues on events, food or any relevant building issues in Student Union</string>
+
+</resources>
